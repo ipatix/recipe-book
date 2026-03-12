@@ -1,4 +1,4 @@
-# Pasta carbonara recipe
+# Pasta Carbonara recipe
 
 
 ## Ingredients
