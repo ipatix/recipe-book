@@ -12,7 +12,7 @@
 
 ## Instructions
 
-- Mash Bananas
+- Mash the Bananas
 - Mix everything
 - Use a tablespoon to put dough onto a baking sheet and flatten the dough portions
 - bake the, at 160 °C with circulating air in the oven
