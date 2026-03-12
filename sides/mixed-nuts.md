@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- peanuts
+- walnuts
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- put peanuts
+- put walnuts
