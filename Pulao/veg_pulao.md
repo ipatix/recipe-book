@@ -5,3 +5,4 @@
 
 - Soak rice
 - Chop vegetables
+- mixer green chillies
