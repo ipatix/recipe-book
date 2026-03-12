@@ -1,5 +1,12 @@
-# Mixed Nuts
+# Recipe name
 
-## Overview
+## Ingredients
 
-I don't actually know anything about that ;-(
+- peanuts
+- walnuts
+
+
+## Instructions
+
+- put peanuts
+- put walnuts
