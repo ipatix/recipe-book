@@ -1,4 +1,4 @@
-# Pumpkin pie recipe
+# veg pulao recipe
 
 
 ## Preparation
