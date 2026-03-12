@@ -1,5 +1,7 @@
 # Mixed Nuts 
 
+This recipe contains mixed nuts.
+
 ## Ingredients
 
 - Ingredient 1
