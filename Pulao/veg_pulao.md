@@ -4,3 +4,4 @@
 ## Preparation
 
 - Soak rice
+- Chop vegetables
